@@ -88,7 +88,7 @@ function Weathercard({ tempInfo }) {
           </div>
 
           <div className="bd">
-            <i class="fa-solid fa-wind"></i>
+            <i class="fa-solid fa-font-awesome" ></i>
             <div className="bdin">
               <span>Wind</span>
               <span>{speed}</span>
