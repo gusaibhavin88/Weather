@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
-import "./app.css";
+import "./App.css";
 import Weathercard from "./Weathercard";
 function App() {
   const [input, setinput] = useState("Surat");

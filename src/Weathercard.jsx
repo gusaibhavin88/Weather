@@ -3,7 +3,7 @@ import smoke from "./assets/weather.png";
 import cloud from "./assets/cloudy.png";
 import rain from "./assets/rain.png";
 import React, { useEffect } from "react";
-import "./app.css";
+import "./App.css";
 import { useState } from "react";
 function Weathercard({ tempInfo }) {
   const [wethericon, setweathericon] = useState("");
